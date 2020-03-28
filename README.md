@@ -1,8 +1,6 @@
 
 # Installation
 
-    // clone the application with git clone
-
     // then install the npm modules using
      
     npm install
