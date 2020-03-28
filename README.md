@@ -20,7 +20,7 @@
 
 # Running docker container
 
-    // 9005 port is given since the docker file contains 4000 port
+    // 4000 port is given since the docker file contains 4000 port
     docker run -it -d -p <outside-port-of-your-choice>:4000 <imagename:version>
 
 
